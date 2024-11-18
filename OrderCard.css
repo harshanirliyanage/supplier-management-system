@@ -1,0 +1,22 @@
+.order-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 16px;
+  }
+  
+.order-card h3 {
+    margin-top: 0;
+  }
+  
+.orders-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+.order-cards-container {
+    display: grid;
+    grid-gap: 20px;
+  }
+  
