@@ -1,0 +1,15 @@
+
+
+
+ cluster password:FuWkYNh0GIspGR3S
+ cluster username:pranayoga880
+
+ link that should be in .env file:
+                                  mongodb+srv://pranayoga880:sxYO9ogPES9iHJDI@clusterprana.wzi1ztv.mongodb.net/?                       retryWrites=true&w=majority&appName=ClusterPrana
+
+
+mongodb login email= pranayoga880@gmail.com
+password           = Prana@880
+
+
+npm install @mui/material @emotion/react @emotion/styled
